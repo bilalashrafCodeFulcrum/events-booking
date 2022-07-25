@@ -1,0 +1,11 @@
+{
+  "name": "booking-events-graphql",
+  "version": "1.0.0",
+  "description": "This app is learning app for graphql course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilal Ashraf",
+  "license": "ISC"
+}
